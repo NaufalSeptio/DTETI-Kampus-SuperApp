@@ -30,7 +30,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### B. Navigasi & Informasi Kampus 🗺️
 <!-- START MENAMBAHKAN DI SINI -->
-
+Nama Fitur: Peta Kampus Teknik
+Deskripsi Singkat:  Fitur ini memungkinkan mahasiswa untuk mengetahui lokasi berbagai tempat di kampus.
+Target Pengguna Utama: Mahasiswa S1 & S2 DTETI
+Value Proposition: Menurunkan kebutaan mahasiswa akan arah.
+Diajukan oleh: 502670
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### C. Kehidupan Sosial & Komunitas Mahasiswa 🤝
